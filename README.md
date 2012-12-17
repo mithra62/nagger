@@ -1,4 +1,4 @@
-nagger
+Nagger
 ======
 
 Adds confirmation to leave edited ExpressionEngine Control Panel form pages. Nagger is customizable so it'll only annoy you on the pages you want. 
